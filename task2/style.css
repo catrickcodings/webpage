@@ -1,0 +1,61 @@
+body {
+    background-image: url(images/bimage2.jpeg);
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    margin: 10px 25px;
+    text-decoration: none;
+    font-size: larger;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+    transition: 1s all;
+}
+
+div {
+    margin-top: 50px;
+    margin-left: 800px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    margin-left: 225px;
+    margin-top: 50px;
+    color: rgb(255, 251, 251);
+}
+
+p {
+    margin-top: 300px;
+    margin-right: 800px;
+    margin-left: 200px;
+    color: white;
+    line-height: 20px;
+    font-size: larger;
+    font-weight: 200;
+    text-overflow: inherit;
+    color: white;
+}
+
+button {
+    margin-left: 200px;
+    margin-right: 30px;
+    padding: 10px 10px;
+    border-radius: 15px;
+}
+
+button:hover {
+    color: grey;
+    transition: 1s;
+}
